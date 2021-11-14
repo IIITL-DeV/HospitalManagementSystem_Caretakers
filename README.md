@@ -27,3 +27,23 @@ Then we will give them the chance to provide us with their valuable feedback and
 We have build a great environment with many talented and experienced doctors working at trusted hospitals.
 These things lead us to be a great help for people and continue the process of helping and connecting the needed to the resourced ones.
 We continue on working at improvement part of the project with the help of the feedbacks.
+
+#To run the project on your system
+Step-1: First we need python to run the project, so go to ‘Download Python | Python.org’ and install the latest version of python, if your system doesn’t have python.
+
+Step-2: Then Download the zipped folder from github and unzip it.
+
+Step-3: Open Command Prompt and navigate to hospital folder using the command: 
+cd C:\Users\asus\Downloads\SE_Lab_Group_14_HMS\hospital
+(considering you unzipped the project in and Downloads folder and also change the word ‘asus’ with the name of the user in your computer).
+
+Step-4: Now, install Django by using the command:
+pip install django
+
+Step-5: We will use the command:
+python manage.py runserver
+
+Step-6: Copy the URL shown in the command prompt and paste it on a web browser.
+
+Step-7: Now you can navigate through the website on this browser and for detailed reference you can see the demonstrations section.
+
